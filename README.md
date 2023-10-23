@@ -34,7 +34,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Predominantly Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Predominantly Languages-Frameworks-Tools Used ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,vscode,visualstudio,github,figma,tailwind" />
