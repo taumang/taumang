@@ -34,11 +34,11 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Predominantly Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,visualstudio,github,figma,tailwind,git,php,wordpress" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,dotnet,mysql,postgresql,vite,vitest" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,vscode,visualstudio,github,figma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,dotnet,mysql,postgresql,vite" /><br>
 </div>
 
 <br/>
