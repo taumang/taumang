@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Predominantly Used Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,vscode,visualstudio,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,dotnet,mysql,postgresql,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,vscode,visualstudio,github,figma,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,dotnet,mysql,postgresql,vite,php" /><br>
 </div>
 
 <br/>
