@@ -12,11 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for opportunities as a **Full-stack or Backend Developer**
- 
- 🌱 I’m currently learning **TypeScript, React Native Expo, PostgreSQL** also diving deeper on **JavaScript and C#/.NET**
-
- ⚡ Fun fact **Did you know that bats can also pollinate plates just like honey bees**
+  ⚡ Fun fact **Did you know that bats can also pollinate plates just like honey bees**
  
  </div>
 
@@ -37,8 +33,8 @@
 <h2 align="center">⚒️ Predominantly Used Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,vscode,visualstudio,github,figma,tailwind,wordpress" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,dotnet,mysql,postgresql,vite,php" /><br>
+    <img src="https://skillicons.dev/icons?i=excel,sql,vscode,visualstudio,github" />
+    <img src="https://skillicons.dev/icons?i=python, /><br>
 </div>
 
 <br/>
