@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Predominantly Used Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=excel,sql,vscode,visualstudio,github" />
+    <img src="https://skillicons.dev/icons?i=msexcel,mssql,vscode,visualstudio,github" />
     <img src="https://skillicons.dev/icons?i=python, /><br>
 </div>
 
