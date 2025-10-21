@@ -46,9 +46,7 @@
 <br>
 <div align=center>
   
-  <br/>
-  <img width=325 align="center" src="https://github-contributor-stats.vercel.app/api?username=taumang&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top langs" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=taumang&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="top langs" />
+  <
  
 </div>
 
